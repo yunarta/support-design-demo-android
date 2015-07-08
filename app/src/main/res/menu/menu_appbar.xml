@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/menu1"
+        android:orderInCategory="100"
+        android:title="App Bar One"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu2"
+        android:orderInCategory="100"
+        android:title="App Bar Two"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu3"
+        android:orderInCategory="100"
+        android:title="App Bar Three"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu4"
+        android:orderInCategory="100"
+        android:title="App Bar Four"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu5"
+        android:orderInCategory="100"
+        android:title="App Bar Five"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu6"
+        android:orderInCategory="100"
+        android:title="App Bar Six"
+        app:showAsAction="never"/>
+</menu>
